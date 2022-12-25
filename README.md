@@ -1,4 +1,4 @@
-Hi, I’m Aleks Kovalchuk!
+### Hi, I’m Aleks Kovalchuk!
 
 I am a mobile developer and unofficial ambassador of React Native ❤️
 
