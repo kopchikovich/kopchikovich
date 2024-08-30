@@ -1,10 +1,16 @@
-### Hi, I’m Aleks!
+### Hey 👋 I’m Aleks!
 
-I am a mobile developer and unofficial ambassador of [React Native](https://github.com/facebook/react-native) ❤️
-
-I love everything related to development and a career in IT and I write about it in my telegram channel https://t.me/befrontender
+Cat's father 🐈🐈‍⬛ Mobile Developer 😅
 
 ### Links
 - [LinkedIn](https://www.linkedin.com/in/aleksandr-kovalchuk)
-- [Telegram](https://t.me/kopchikovich)
-- [Telegram channel](https://t.me/befrontender)
+- [Telegram](https://t.me/alekskovalchuk)
+- [Telegram channel (ru)](https://t.me/befrontender)
+
+### Projects
+- [Pomodoro Timer for Chrome](https://chromewebstore.google.com/detail/pfbgmmjloigajfgnfmgmdbafaedpmlml)
+- [react-native-flash-carousel](https://github.com/kopchikovich/react-native-flash-carousel)
+
+### Articles
+- [How to Update a Chrome Extension from Manifest V2 to V3: A Step-by-Step Guide Using a Pomodoro Timer Example](https://dev.to/kopchikovich/how-to-update-a-chrome-extension-from-manifest-v2-to-v3-a-step-by-step-guide-using-a-pomodoro-timer-example-5ene)
+- [Creating an auto-scrolling Сarousel component using FlashList in React Native](https://dev.to/kopchikovich/creating-an-auto-scrolling-sarousel-component-using-flashlist-in-react-native-1lbp)
