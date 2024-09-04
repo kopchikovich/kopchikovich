@@ -10,6 +10,7 @@ Cat's father 🐈🐈‍⬛ Mobile Developer 😅
 ### Projects
 - [Pomodoro Timer for Chrome](https://chromewebstore.google.com/detail/pfbgmmjloigajfgnfmgmdbafaedpmlml)
 - [react-native-flash-carousel](https://github.com/kopchikovich/react-native-flash-carousel)
+- [Tic-Tac-Toe game on React Native](https://github.com/kopchikovich/tic-tac-toe/tree/master)
 
 ### Articles
 - [How to Update a Chrome Extension from Manifest V2 to V3: A Step-by-Step Guide Using a Pomodoro Timer Example](https://dev.to/kopchikovich/how-to-update-a-chrome-extension-from-manifest-v2-to-v3-a-step-by-step-guide-using-a-pomodoro-timer-example-5ene)
