@@ -1,4 +1,4 @@
-### Hey 👋 I’m Aleks!
+### Hey 👋 I’m Sasha!
 
 Cat's father 🐈🐈‍⬛ Mobile Developer 😅
 
@@ -8,6 +8,7 @@ Cat's father 🐈🐈‍⬛ Mobile Developer 😅
 - [Telegram channel (ru)](https://t.me/befrontender)
 
 ### Projects
+- [Quick Web Notes for Chrome](https://chromewebstore.google.com/detail/quick-web-notes/cafffkmcpncmhfmbmkbimpojbjoadaoc)
 - [Pomodoro Timer for Chrome](https://chromewebstore.google.com/detail/pfbgmmjloigajfgnfmgmdbafaedpmlml)
 - [react-native-flash-carousel](https://github.com/kopchikovich/react-native-flash-carousel)
 - [Tic-Tac-Toe](https://github.com/kopchikovich/tic-tac-toe/tree/master)
