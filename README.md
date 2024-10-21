@@ -8,8 +8,8 @@ Cat's father 🐈🐈‍⬛ Mobile Developer 😅
 - [Telegram channel (ru)](https://t.me/befrontender)
 
 ### Projects
-- [Quick Web Notes for Chrome](https://chromewebstore.google.com/detail/quick-web-notes/cafffkmcpncmhfmbmkbimpojbjoadaoc)
-- [Pomodoro Timer for Chrome](https://chromewebstore.google.com/detail/pfbgmmjloigajfgnfmgmdbafaedpmlml)
+- [Make Notes for Chrome](https://chromewebstore.google.com/detail/make-notes/cafffkmcpncmhfmbmkbimpojbjoadaoc)
+- [Pomodoro Timer for Chrome](https://chromewebstore.google.com/detail/pomodoro-timer/pfbgmmjloigajfgnfmgmdbafaedpmlml)
 - [react-native-flash-carousel](https://github.com/kopchikovich/react-native-flash-carousel)
 - [Tic-Tac-Toe](https://github.com/kopchikovich/tic-tac-toe/tree/master)
 
