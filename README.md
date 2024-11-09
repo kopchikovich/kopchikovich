@@ -8,10 +8,11 @@ Cat's father 🐈🐈‍⬛ Mobile Developer 😅
 - [Telegram channel (ru)](https://t.me/befrontender)
 
 ### Projects
-- [Make Notes for Chrome](https://chromewebstore.google.com/detail/make-notes/cafffkmcpncmhfmbmkbimpojbjoadaoc)
-- [Pomodoro Timer for Chrome](https://chromewebstore.google.com/detail/pomodoro-timer/pfbgmmjloigajfgnfmgmdbafaedpmlml)
-- [react-native-flash-carousel](https://github.com/kopchikovich/react-native-flash-carousel)
-- [Tic-Tac-Toe](https://github.com/kopchikovich/tic-tac-toe/tree/master)
+- [Chrome Help](https://devpost.com/software/chrome-help) - project for Google's hackathon on using build-in AI
+- [Make Notes](https://chromewebstore.google.com/detail/make-notes/cafffkmcpncmhfmbmkbimpojbjoadaoc) - a Chrome extension for making page notes
+- [Pomodoro Timer](https://chromewebstore.google.com/detail/pomodoro-timer/pfbgmmjloigajfgnfmgmdbafaedpmlml) - productivity timer as a Chrome extension
+- [react-native-flash-carousel](https://github.com/kopchikovich/react-native-flash-carousel) - react-native library
+- [Tic-Tac-Toe](https://github.com/kopchikovich/tic-tac-toe/tree/master) - react-native Tic-Tac-Toe game
 
 ### Articles
 - [How to Update a Chrome Extension from Manifest V2 to V3: A Step-by-Step Guide Using a Pomodoro Timer Example](https://dev.to/kopchikovich/how-to-update-a-chrome-extension-from-manifest-v2-to-v3-a-step-by-step-guide-using-a-pomodoro-timer-example-5ene)
