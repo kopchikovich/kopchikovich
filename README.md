@@ -6,4 +6,4 @@ Join my telegram channel (ru) → [https://t.me/befrontender](https://t.me/befro
 
 ### Live products
 - [Pomodoro Timer](https://chromewebstore.google.com/detail/pomodoro-timer/pfbgmmjloigajfgnfmgmdbafaedpmlml) - browser extension
-- Photo to PDF [Android 🤖](https://play.google.com/store/apps/details?id=com.kopchikovich.phototopdf) [iOS 🍏](https://apps.apple.com/us/app/photo-to-pdf-offline/id6758971716) - mobile app
+- Photo to PDF [🤖](https://play.google.com/store/apps/details?id=com.kopchikovich.phototopdf) [🍏](https://apps.apple.com/us/app/photo-to-pdf-offline/id6758971716) - mobile app
